@@ -1,0 +1,7 @@
+{
+  "name": "FrameFlow",
+  "description": "An AI-powered video production planner that turns rough ideas into scripts, shot lists, and schedules. This web application provides a seamless experience for creators to organize their video projects from concept to completion, with AI-driven strategy generation and progress tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
